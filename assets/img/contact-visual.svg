@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" role="img" aria-labelledby="title desc">
+  <title id="title">Contact and inquiry visual</title>
+  <desc id="desc">Stylized global B2B inquiry and shipping illustration</desc>
+  <rect width="700" height="500" fill="#f7f3ee"/>
+  <circle cx="520" cy="120" r="70" fill="#6f8a6d" opacity="0.2"/>
+  <rect x="80" y="80" width="540" height="340" rx="22" fill="#fff" stroke="#e7ded2"/>
+  <rect x="130" y="140" width="220" height="180" rx="14" fill="#d7be9d"/>
+  <rect x="380" y="140" width="180" height="26" rx="8" fill="#e7ded2"/>
+  <rect x="380" y="182" width="180" height="26" rx="8" fill="#e7ded2"/>
+  <rect x="380" y="224" width="180" height="26" rx="8" fill="#e7ded2"/>
+  <rect x="380" y="286" width="120" height="34" rx="16" fill="#d88c4a"/>
+</svg>

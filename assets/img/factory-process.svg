@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Factory and process</title>
+  <desc id="desc">Illustration of manufacturing process for wood furniture</desc>
+  <rect width="800" height="500" fill="#f7f3ee"/>
+  <rect x="60" y="80" width="680" height="340" rx="20" fill="#fff" stroke="#e7ded2"/>
+  <rect x="120" y="140" width="130" height="220" rx="8" fill="#d7be9d"/>
+  <rect x="280" y="140" width="130" height="220" rx="8" fill="#c7d4c6"/>
+  <rect x="440" y="140" width="130" height="220" rx="8" fill="#e7c8ab"/>
+  <rect x="600" y="140" width="80" height="220" rx="8" fill="#f1e9de"/>
+</svg>

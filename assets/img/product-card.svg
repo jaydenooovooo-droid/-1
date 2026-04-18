@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Product placeholder</title>
+  <desc id="desc">Modern wooden product placeholder image</desc>
+  <rect width="640" height="420" fill="#f7f3ee"/>
+  <rect x="70" y="40" width="500" height="340" rx="20" fill="#fff" stroke="#e7ded2"/>
+  <rect x="230" y="100" width="180" height="220" rx="16" fill="#d7be9d"/>
+  <rect x="130" y="300" width="380" height="30" rx="10" fill="#6f8a6d" opacity="0.24"/>
+</svg>
