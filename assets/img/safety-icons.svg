@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" role="img" aria-labelledby="title desc">
+  <title id="title">Safety assurance icons</title>
+  <desc id="desc">Icons for child-safe design, anti-tip and coating safety</desc>
+  <rect width="700" height="420" fill="#f7f3ee"/>
+  <rect x="40" y="70" width="180" height="260" rx="20" fill="#fff" stroke="#e7ded2"/>
+  <rect x="260" y="70" width="180" height="260" rx="20" fill="#fff" stroke="#e7ded2"/>
+  <rect x="480" y="70" width="180" height="260" rx="20" fill="#fff" stroke="#e7ded2"/>
+  <circle cx="130" cy="150" r="40" fill="#6f8a6d" opacity="0.35"/>
+  <circle cx="350" cy="150" r="40" fill="#d88c4a" opacity="0.35"/>
+  <circle cx="570" cy="150" r="40" fill="#6f8a6d" opacity="0.35"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" role="img" aria-labelledby="title desc">
+  <title id="title">Learning tower product hero</title>
+  <desc id="desc">Stylized wooden learning tower in Scandinavian style interior</desc>
+  <rect width="800" height="620" fill="#f5efe6"/>
+  <rect x="120" y="80" width="560" height="460" rx="24" fill="#fff" stroke="#e7ded2"/>
+  <rect x="290" y="150" width="220" height="340" rx="16" fill="#d7be9d"/>
+  <rect x="310" y="180" width="180" height="24" rx="8" fill="#6f8a6d"/>
+  <rect x="330" y="260" width="140" height="170" rx="12" fill="#f7f3ee" stroke="#c9b39a"/>
+  <circle cx="230" cy="500" r="28" fill="#d88c4a" opacity="0.8"/>
+  <circle cx="570" cy="130" r="38" fill="#6f8a6d" opacity="0.22"/>
+</svg>
